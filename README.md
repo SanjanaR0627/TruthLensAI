@@ -34,3 +34,9 @@ Unlike traditional fake news detectors, TruthLens AI also generates a Trust Scor
 - Streamlit Web App
 - Browser Extension
 - Hindi + English Support
+  
+#Dataset:
+Fake and Real News Dataset (Kaggle)
+
+Download from:
+https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
