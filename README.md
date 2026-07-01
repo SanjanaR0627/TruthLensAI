@@ -32,7 +32,6 @@ Unlike traditional fake news detectors, TruthLens AI also generates a Trust Scor
 
 - News Bias Detection
 - Source Credibility Analysis
-- Streamlit Web App
 - Browser Extension
 - Hindi + English Support
   
