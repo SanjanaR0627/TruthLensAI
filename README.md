@@ -26,6 +26,7 @@ Unlike traditional fake news detectors, TruthLens AI also generates a Trust Scor
 - Pandas
 - NumPy
 - Matplotlib
+- Streamlit
 
 ## Future Scope
 
